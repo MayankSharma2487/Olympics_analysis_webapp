@@ -25,6 +25,7 @@ user_menu = st.sidebar.radio(
 
 # Debug: Display the dataframe (optional for large datasets)
 st.write("Data Preview:")
+st.text('YOU Can Touch(Mobile) or Hover(PC) on Graphs/charts to get more info these are intrective')
 st.dataframe(df.head())
 
 # Medal Tally
