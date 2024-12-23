@@ -30,7 +30,7 @@ This is a Streamlit web application for analyzing and visualizing Olympic Games 
 
 pip install -r requirements.txt
 
-streamlit run app.py
+streamlit run app.py```
 
 
 ## Usage
@@ -64,6 +64,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or feedback, reach out to:
-- Name: [Your Name]
+- Name: [Mayank Sharma]
 - Email: your.email@example.com
-- GitHub: [Mayank Sharma](https://github.com/MayankSharma2487)
+- GitHub: [MayankSharma2487](https://github.com/MayankSharma2487)
