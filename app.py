@@ -295,7 +295,7 @@ footer {
 }
 div.stMarkdown > div {
     position: fixed;
-    bottom: 0;
+    bottom: 10px;
     left: 0;
     width: 100%;
     background-color: #f1f1f1;
