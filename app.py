@@ -39,14 +39,14 @@ if user_menu == 'Medal Tally':
 
 
     medal_tally = helper.fetch_medal_tally(df, selected_year, selected_country)
-    title = "Medal Tally"
+    title = "Full Medal Tally"
     if selected_year != 'Overall':
         title += f" in {selected_year} Olympics"
     if selected_country != 'Overall':
         title += f" for {selected_country}"
 
     st.title(title)
-    st.write("### Full Medal Tally")
+    
     # Ensure only numeric columns are formatted
     if not medal_tally.empty:
         numeric_columns = ["Gold", "Silver", "Bronze", "total"]  # Columns to format
