@@ -34,11 +34,12 @@ This is a Streamlit web application for analyzing and visualizing Olympic Games 
 
 
 ## Usage
-1. Open the app in your browser.
+1. Open the app in your browser .
 2. Navigate through the sidebar to:
    - Select the **Medal Tally** option to view medals by year or country.
    - Choose other analysis options to explore data interactively.
 3. Use filters for a customized view of the data.
+4. app link : (https://olympicsanalysiswebapp-bymayank.streamlit.app/)
 
 
 ## Dataset
