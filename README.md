@@ -50,7 +50,7 @@ The data used in this app is sourced from [Kaggle](https://www.kaggle.com/) or a
 
 ## Screenshots
 ![Home Page](Olympics_analysis_webapp\ss1.png)
-![Medal Tally](E:\ANALYSIS_PROJECTS\Olympics_analysis_webapp\ss2.png)
+![Medal Tally](Olympics_analysis_webapp\ss2.png)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
