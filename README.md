@@ -28,9 +28,9 @@ This is a Streamlit web application for analyzing and visualizing Olympic Games 
    git clone https://github.com/MayankSharma2487/Olympics_analysis_webapp.git
    cd olympics-data-analysis
 
-pip install -r requirements.txt
+```pip install -r requirements.txt
 
-streamlit run app.py```
+```streamlit run app.py
 
 
 ## Usage
@@ -64,6 +64,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions or feedback, reach out to:
-- Name: [Mayank Sharma]
-- Email: your.email@example.com
+- Name: Mayank Sharma
+- Email: pms2487538@gmail.com
 - GitHub: [MayankSharma2487](https://github.com/MayankSharma2487)
