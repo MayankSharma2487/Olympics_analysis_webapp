@@ -49,8 +49,8 @@ The data used in this app is sourced from [Kaggle](https://www.kaggle.com/) or a
 - Event categories
 
 ## Screenshots
-![Home Page](Olympics_analysis_webapp\Screenshot 2024-12-23 221445.png)
-![Medal Tally](E:\ANALYSIS_PROJECTS\Olympics_analysis_webapp\Screenshot 2024-12-23 221705.png.png)
+![Home Page](Olympics_analysis_webapp\ss1.png)
+![Medal Tally](E:\ANALYSIS_PROJECTS\Olympics_analysis_webapp\ss2.png)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
