@@ -288,3 +288,26 @@ if user_menu == 'Athlete-Wise Analysis':
     st.title('Men Vs Women Participants Over The Years')
     st.plotly_chart(fig)
 
+sticky_footer = """
+<style>
+footer {
+    visibility: hidden;
+}
+div.stMarkdown > div {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+    border-top: 1px solid #eaeaea;
+}
+</style>
+<div>
+    Created by <a href="https://github.com/your-profile" target="_blank">Your Name</a> | © 2024 All rights reserved.
+</div>
+"""
+st.markdown(sticky_footer, unsafe_allow_html=True)
