@@ -295,7 +295,7 @@ footer {
 }
 div.stMarkdown > div {
     position: fixed;
-    bottom: 10px;
+    bottom: 0;
     left: 0;
     width: 100%;
     background-color: #f1f1f1;
@@ -305,9 +305,13 @@ div.stMarkdown > div {
     font-size: 14px;
     border-top: 1px solid #eaeaea;
 }
+/* Add bottom padding to main content */
+main > div.block-container {
+    padding-bottom: 50px; /* Adjust the value to match the footer height */
+}
 </style>
 <div>
-    Created by <a href="https://github.com/your-profile" target="_blank">Your Name</a> | © 2024 All rights reserved.
+    Created by <a href="https://github.com/MayankSharma2487" target="_blank">Mayank Sharma</a> | © 2024 All rights reserved.
 </div>
 """
 st.markdown(sticky_footer, unsafe_allow_html=True)
